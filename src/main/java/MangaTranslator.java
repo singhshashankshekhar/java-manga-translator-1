@@ -43,7 +43,7 @@ public class MangaTranslator {
 
     // --- CONFIGURATION ---
     // IMPORTANT: Get a free API key from https://ocr.space/ and paste it here.
-    private static final String OCR_SPACE_API_KEY = "K86798906488957";
+    private static final String OCR_SPACE_API_KEY = "YOUR_OCR_SPACE_API_KEY_HERE";
     private static final String OCR_API_URL = "https://api.ocr.space/parse/image";
     private static final String TRANSLATE_API_URL = "https://api.mymemory.translated.net/get";
 
